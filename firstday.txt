@@ -1,1 +1,2 @@
-hello,this is my first day of training...
+hello,this is
+my first day
